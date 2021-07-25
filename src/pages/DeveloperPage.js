@@ -72,7 +72,7 @@ function DeveloperPage() {
                 <Text top='4.2rem' fontSize='1.2rem'>Special thanks to...</Text>
                 <Text top='4.2rem' color='#00462A'>Saerom Choi</Text>
                 <Text top='1.7rem' bottom='19.4rem' font='poppins' fontWeight='400' fontSize='1.2rem'>도와주셔서 감사합니다 예아</Text>
-                <BtnToPage exact to='/'><ButtonComponent type={'others-activated'} text={'Take it again!'} /></BtnToPage>
+                <BtnToPage exact to='/roome_deploy'><ButtonComponent type={'others-activated'} text={'Take it again!'} /></BtnToPage>
                 <BtnToPage exact to='/all'><ButtonComponent type={'others-unactivated'} text={'Find other Roome'} /></BtnToPage>
             </Wrapper>
         </>

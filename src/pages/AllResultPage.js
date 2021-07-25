@@ -82,7 +82,7 @@ function AllResultPage() {
                     />
                 ))}
                 <Text bottom='74px' />
-                <BtnToPage exact to='/'><ButtonComponent type={'others-activated'} text={'Take it Again!'} /></BtnToPage>
+                <BtnToPage exact to='/roome_deploy'><ButtonComponent type={'others-activated'} text={'Take it Again!'} /></BtnToPage>
                 <BtnToPage exact to='/makers'><DeveloperPageLink><SmallText>Who made this test?</SmallText></DeveloperPageLink></BtnToPage>
             </Wrapper>
         </>

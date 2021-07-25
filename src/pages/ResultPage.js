@@ -253,7 +253,7 @@ function ResultPage({ match }) {
                                     <Button onClick={alertMessage}><Img src={LinkCopyBtn} /></Button>
                                 </CopyToClipboard>
                             </FlexLayout>
-                            <BtnToPage exact to='/'><ButtonComponent type={'result-activated'} text={'Take it Again!'} /></BtnToPage>
+                            <BtnToPage exact to='/roome_deploy'><ButtonComponent type={'result-activated'} text={'Take it Again!'} /></BtnToPage>
                             <BtnToPage exact to='/all'><ButtonComponent type={'result-unactivated'} text={'Find other Roome'} /></BtnToPage>
                         </ShareSquare>
                     </FlexLayout>

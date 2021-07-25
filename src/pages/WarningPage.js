@@ -18,7 +18,7 @@ const Img = styled.img`
 `
 
 const Text = styled.div`
-    font-family:'Jalnan';
+    font-family:'poppins';
     font-size:2rem;
     text-align:center;
     color:${props => props.theme.primary};
@@ -44,10 +44,10 @@ function WarningPage() {
 
     return (
         <Container>
-            <Text>앗! 룸미가 없는 d빈 방을 발견하셨군요!</Text>
+            <Text>Woops! Error 404.</Text>
             <Img src={DogImg}></Img>
-            <SemiText>대신 귀여운 강쥐를 보여드릴게요 우하하</SemiText>
-            <BtnToPage exact to='/'><ButtonComponent type={'result-activated'} text={'테스트 하러 가기'} /></BtnToPage>
+            <SemiText>Here's a cute picture of a doggo hehe</SemiText>
+            <BtnToPage exact to='/roome_deploy'><ButtonComponent type={'result-activated'} text={'Take On Me'} /></BtnToPage>
         </Container>
     );
 }

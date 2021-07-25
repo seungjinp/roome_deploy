@@ -12,7 +12,7 @@ function App({ props }) {
     <Switch>
       <Route
         exact
-        path="/"
+        path="/roome_deploy"
         render={props => <LandingPage props={props} />}
       ></Route>
       <Route
