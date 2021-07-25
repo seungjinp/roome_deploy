@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/roome_deploy/static/css/main.950be5c1.chunk.css",
-    "main.js": "/roome_deploy/static/js/main.3f2fb7cc.chunk.js",
-    "main.js.map": "/roome_deploy/static/js/main.3f2fb7cc.chunk.js.map",
+    "main.js": "/roome_deploy/static/js/main.5b60aee1.chunk.js",
+    "main.js.map": "/roome_deploy/static/js/main.5b60aee1.chunk.js.map",
     "runtime-main.js": "/roome_deploy/static/js/runtime-main.936e37db.js",
     "runtime-main.js.map": "/roome_deploy/static/js/runtime-main.936e37db.js.map",
     "static/js/2.e9042fef.chunk.js": "/roome_deploy/static/js/2.e9042fef.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.936e37db.js",
     "static/js/2.e9042fef.chunk.js",
     "static/css/main.950be5c1.chunk.css",
-    "static/js/main.3f2fb7cc.chunk.js"
+    "static/js/main.5b60aee1.chunk.js"
   ]
 }
